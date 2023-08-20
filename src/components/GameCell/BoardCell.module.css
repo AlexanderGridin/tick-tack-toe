@@ -1,0 +1,21 @@
+.button {
+  width: 64px;
+  height: 64px;
+  background: none;
+  border: 1px solid #000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+  font-weight: 900;
+  font-size: 64px;
+  transition: background-color 0.4s;
+  overflow: hidden;
+  line-height: 1;
+}
+
+.button:hover {
+  cursor: pointer;
+  background-color: #ebcb8b;
+}

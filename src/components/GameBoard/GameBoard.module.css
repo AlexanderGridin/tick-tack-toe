@@ -1,0 +1,8 @@
+.board {
+  display: flex;
+  flex-wrap: wrap;
+  width: calc(64px * 3);
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
